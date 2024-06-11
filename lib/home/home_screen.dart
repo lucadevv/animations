@@ -1,4 +1,3 @@
-import 'package:animations/explicitas/coffee_challenge.dart';
 import 'package:animations/explicitas/ejercicies_screen.dart';
 import 'package:animations/explicitas/explicitas_screen.dart';
 import 'package:animations/explicitas/splash_coffee.dart';

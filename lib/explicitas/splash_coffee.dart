@@ -11,7 +11,7 @@ class SplashCoffe extends StatelessWidget {
     return Scaffold(
       body: GestureDetector(
         onVerticalDragUpdate: (details) {
-          if (details.primaryDelta! < -10) {
+          if (details.primaryDelta! < -8) {
             Navigator.of(context).push(
               PageRouteBuilder(
                 pageBuilder: (context, animation, _) {
